@@ -34,6 +34,14 @@ Personal notes and demos from Pluralsight courses.
 
 1. Write a friendly cover letter for a junior software developer job. Highlight my experience as an intern, that I completed a coding bootcamp, and I am really excited to work for Company X.
 
+#### Ask to generate creative content
+
+1. Write a limerick about learning how to program.
+
+#### Translate between languages
+
+1. Translate the following into French: I would like to order a croissant and a black coffee.
+
 #### Transform handwritten mockup of a website into HTML + CSS (with DALL-E)
 
 1.Load handwritten website mockup 👉 Write code for a website that looks like this picture.
