@@ -25,3 +25,19 @@ Personal notes and demos from Pluralsight courses.
 4. Format the data as CSV, not bullet points.
 5. Please use more variety in the customer names.
 6. The age for Carlos should be 38.
+
+#### Transform handwritten mockup of a website into HTML + CSS (DALL-E)
+
+1.Load handwritten website mockup 👉 Write code for a website that looks like this picture.
+
+#### Detect content of the image (DALL-E)
+
+1. Load picture from vacation 👉 What's in this picture?
+
+#### Generate image (DALL-E)
+
+1. An image of a man in an airport, dragging a suitcasem with a plane behind him.
+
+#### Browse with Bing (DALL-E)
+
+1. What's the current interest rate for mortgages in the United States?
