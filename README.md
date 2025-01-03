@@ -57,6 +57,10 @@ Personal notes and demos from Pluralsight courses.
 1. Write and Excel VLOOKUP formula that looks up values in Column A that match values in Column B.
 2. Write a Regex that fits a U.S. phone number.
 
+#### Compare technologies and choose a good one for you
+
+1. What are two popular technologies for infrastructure as code? Give me pros and cons and example of how to use them.
+
 #### Extract keywords from text
 
 1. From the following text, please extract all companies, schoold and skills. Text: xxxxxxxxxxxxxx.
