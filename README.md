@@ -22,3 +22,6 @@ Personal notes and demos from Pluralsight courses.
 1. Create a sample dataset of five customers. Include first name, last name, age, income range, retirement age, and risk tolerance. Format the data as table.
 2. Create a sample dataset of five customers. Include first name, last name, age, income range, retirement age, and risk tolerance. Format the data as bullet points.
 3. Create a sample dataset of five customers. Include first name, last name, age, income range, retirement age, and risk tolerance. Format the data as CSV.
+4. Format the data as CSV, not bullet points.
+5. Please use more variety in the customer names.
+6. The age for Carlos should be 38.
