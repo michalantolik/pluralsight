@@ -4,6 +4,10 @@ Personal notes and demos from Pluralsight courses.
 
 # Chat GPT prompts
 
+#### Ask about ChatGPT knowledge database recency
+
+1. How old is the data you were trained on?
+
 #### Ask about introduction to some topic
 
 1. Write a humorous introduction for a course about ChatGPT. Use two sentences.
