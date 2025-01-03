@@ -15,3 +15,4 @@ Personal notes and demos from Pluralsight courses.
 #### Ask for particular tone (style)
 
 1. Explain artificial intelligence for a 5-year-old.
+2. Write a short paragraph explaining the history of artificial intelligence. Use a friendly tone.
