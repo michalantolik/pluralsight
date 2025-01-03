@@ -26,18 +26,22 @@ Personal notes and demos from Pluralsight courses.
 5. Please use more variety in the customer names.
 6. The age for Carlos should be 38.
 
-#### Transform handwritten mockup of a website into HTML + CSS (DALL-E)
+#### Transform handwritten mockup of a website into HTML + CSS (with DALL-E)
 
 1.Load handwritten website mockup 👉 Write code for a website that looks like this picture.
 
-#### Detect content of the image (DALL-E)
+#### Detect content of the image (with DALL-E)
 
 1. Load picture from vacation 👉 What's in this picture?
 
-#### Generate image (DALL-E)
+#### Generate image (with DALL-E)
 
 1. An image of a man in an airport, dragging a suitcasem with a plane behind him.
 
-#### Browse with Bing (DALL-E)
+#### Browse with Bing (with DALL-E)
 
 1. What's the current interest rate for mortgages in the United States?
+
+#### Search for a flight (with Kayak plugin)
+
+1. Find two options for round-trip flights from SEA to LHR, departing September 26 2024, and returning October 17, 2024. The flights should depart before 10:00 a.m. for each date.
