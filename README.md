@@ -30,6 +30,10 @@ Personal notes and demos from Pluralsight courses.
 5. Please use more variety in the customer names.
 6. The age for Carlos should be 38.
 
+#### Ask to generate resume cover letter
+
+1. Write a friendly cover letter for a junior software developer job. Highlight my experience as an intern, that I completed a coding bootcamp, and I am really excited to work for Company X.
+
 #### Transform handwritten mockup of a website into HTML + CSS (with DALL-E)
 
 1.Load handwritten website mockup 👉 Write code for a website that looks like this picture.
