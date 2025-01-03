@@ -42,6 +42,25 @@ Personal notes and demos from Pluralsight courses.
 
 1. Translate the following into French: I would like to order a croissant and a black coffee.
 
+#### Explain existing source code
+
+1. What does this code do? xxxxxxxxxxxxxx
+
+#### Generate source code
+
+1. Write Python code to calculate the distance between two points.
+2. Can you refactor this code to be more concise?
+3. Write unit tests for this Person class.
+
+#### Ask about code examples, snippets, syntax
+
+1. Write and Excel VLOOKUP formula that looks up values in Column A that match values in Column B.
+2. Write a Regex that fits a U.S. phone number.
+
+#### Extract keywords from text
+
+1. From the following text, please extract all companies, schoold and skills. Text: xxxxxxxxxxxxxx.
+
 #### Transform handwritten mockup of a website into HTML + CSS (with DALL-E)
 
 1.Load handwritten website mockup 👉 Write code for a website that looks like this picture.
